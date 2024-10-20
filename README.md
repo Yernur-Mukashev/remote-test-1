@@ -4,3 +4,5 @@ git push -u source main
 
 новый запись 
 затягиваем изменения: git fetch --all
+
+24-issue
